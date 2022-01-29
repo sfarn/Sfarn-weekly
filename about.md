@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm Stephanie Farn! I'm a senior majoring in game design and minoring in comsci. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Besides coding I really enjoy playing the piano and drawing (primarily character design). I don't think I could pick a favorite game, but I've played far too much Splatoon, Fire Emblem and Genshin.
 
